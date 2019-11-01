@@ -2,4 +2,4 @@
 2. 20191027: Delete the lm() fit to find the optimal design in the interim design evaluation step. Code seems to work for ACML.
 3. 20191030: Get the lm() fit to find the optimal design in the interim design evaluation step back. Decrese the range of time.
 4. 20191031: Change the range of time from 0-2 back to 0-5. Add a single-wave design using the 2:11:2 sample selection ratio.
-
+5. 20191101: Change the wave-1 design from 20:110:20 to 40:70:40.
