@@ -1,6 +1,0 @@
-SLURM_JOBID:  14901841
-SLURM_ARRAY_TASK_ID:  23
-SLURM_ARRAY_JOB_ID:  14901817
-         used (Mb) gc trigger (Mb) max used (Mb)
-Ncells 264247 14.2     641800 34.3   434329 23.2
-Vcells 447313  3.5    8388608 64.0  1753994 13.4
